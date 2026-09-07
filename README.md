@@ -1,5 +1,5 @@
 # 💫 About Me:
-* 🔭 I’m currently working on a weather scraping automation script.<br>- 👯 I’m looking to collaborate on Python or backend API projects.<br>- 🤝 I’m looking for help with deploying web apps securely to AWS.<br>- 🌱 I’m currently learning Django and PostgreSQL.<br>- 💬 Ask me about data analysis, SQL queries, or automation.<br>- ⚡ Fun fact: I can name 50 countries just by looking at their flags.<br>
+* 🔭 I’m currently working on a weather scraping automation script.<br>- 👯 I’m looking to collaborate on Python or backend API projects.<br>- 🤝 I’m looking for help with deploying web apps securely to AWS.<br>- 🌱 I’m currently learning Django and PostgreSQL.<br>- 💬 Ask me about data analysis, SQL queries, or automation.<br>
 
 
 ## 🌐 Socials:
